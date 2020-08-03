@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Walgreens</title>
+</head>
+<body>
+
+<table cellspacing="10">
+    <tbody>
+    <tr>
+        <td> <img src="pictures\Walgreens_logo_circle.png" alt="Walgreens  Logo" style="width:100px;height:100px;"></td>
+        <td><h1> Walgreens </h1></td>
+    </tr>
+
+    </tbody>
+</table>
+
+<hr noshade color="pink" size="4">
+
+<ul>
+    <li>Involvement in Test Design with respect to Test Plan and using Black Box Techniques. </li>
+
+    <li>Performed various black box testing methodologies like functional, system, regression testing and User acceptance testing.</li>
+
+    <li> Prepared Test Cases, Procedures and Requirements Traceability Matrix using Quality Center/ALM</li>
+
+
+    <li>Responsible for scheduling the batch execution of the tests, log and track defects using Quality Center/ALM. </li>
+
+
+
+    <li> Involved in running the scripts and generating the reports finding the defects and reporting it in TestNG. </li>
+
+    <li> Developed and maintained automated regression test cases in Selenium WebDriver using Java programming language. </li>
+
+    <li> Developed and maintained the Automation Test Scripts Using Selenium WebDriver.</li>
+
+    <li> Actively involved in retrospective and estimation sessions.</li>
+
+    <li>Involved in Defect Tracking and Reporting.</li>
+
+    <li> Communicated with other team members (Development team, technical team, Business Support team) in order to resolve the issues. </li>
+
+    <li> Involved in reviewing the Test Reports and preparing Test Summary Report.</li>
+
+    <li> Involved in preparing the Traceability Matrix between Requirements & Test Cases.</li>
+
+
+
+
+</ul>
+
+
+</body>
+</html>
